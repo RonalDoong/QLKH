@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "username": "Dong",
+      "password": "123456",
+      "avatar": "",
+      "id": 3
+    }
+  ],
+  "Warehose": [
+    {
+      "id": "1"
+    },
+    {
+      "Products": [
+        {
+          "id": "1"
+        },
+        {
+          "namePr": "Quần",
+          "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLCV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/14c67537-6987-4d46-96f3-4503b5d31fe6.jpeg",
+          "codePr": "Md12345",
+          "describePr": "Quần nam",
+          "pricePr": "120000",
+          "numberPr": "10",
+          "id": "cZVzrsb"
+        }
+      ],
+      "id": "RXUa9VG"
+    },
+    {
+      "nameWarehouse": "Kho hàng 1",
+      "id": "gF2tdCb",
+      "Products": [
+        {
+          "namePr": "Quần",
+          "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLCV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/14c67537-6987-4d46-96f3-4503b5d31fe6.jpeg",
+          "codePr": "Md12345",
+          "describePr": "Quần nam",
+          "pricePr": "120000",
+          "numberPr": "10",
+          "id": "cZVzrsb"
+        }
+      ]
+    },
+    {
+      "nameWarehouse": "Kho hàng 1",
+      "id": "CTtCnD0"
+    },
+    {
+      "nameWarehouse": "Kho hàng 2",
+      "id": "hFdgzFO"
+    },
+    {
+      "nameWarehouse": "5tt",
+      "id": "yEuh7jY"
+    },
+    {
+      "nameWarehouse": "Tttg",
+      "id": "NYTVUVy"
+    },
+    {
+      "nameWarehouse": "Tttgy",
+      "id": "Kn_okvV"
+    },
+    {
+      "nameWarehouse": "Gà",
+      "id": "aaw9NFm"
+    },
+    {
+      "nameWarehouse": "Bfbffb",
+      "id": "KlRs2_L"
+    }
+  ],
+  "Product": [
+    {
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLCV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/14c67537-6987-4d46-96f3-4503b5d31fe6.jpeg",
+      "namePr": "Quần",
+      "codePr": "Md12345",
+      "describePr": "Quần nam",
+      "pricePr": "120000",
+      "numberPr": "10",
+      "id": "cZVzrsb"
+    }
+  ]
+}
